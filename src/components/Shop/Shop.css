@@ -12,6 +12,3 @@
     text-align: center;
     color: skyblue;
 }
-@media sceen and(max-width:900px){
-    .product-container{grid-template-columns: repeat(2,1fr);}
-}
